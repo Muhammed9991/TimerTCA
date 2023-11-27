@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "EA3202DB-B5C9-43D1-AD5F-BA72B2A86653",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TimerTCA.xcodeproj",
+      "identifier" : "095EF3102B14D75800388FAF",
+      "name" : "TimerTCA"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TimerTCA.xcodeproj",
+        "identifier" : "095EF3202B14D75900388FAF",
+        "name" : "TimerTCATests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:TimerTCA.xcodeproj",
+        "identifier" : "095EF32A2B14D75900388FAF",
+        "name" : "TimerTCAUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
